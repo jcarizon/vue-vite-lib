@@ -1,6 +1,6 @@
 {
     "name": "my-vue-vite-ui-lib",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "description": "A Vue 3 UI component library",
     "author": "JM Carizon",
     "type": "module",
