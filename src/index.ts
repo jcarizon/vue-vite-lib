@@ -1,7 +1,7 @@
-import Button from './components/styled/Button.vue';
+import Button from './components/Button/styled/index.vue';
 
-export { default as Button } from './components/styled/Button.vue';
+export { default as Button } from './components/Button/styled/index.vue';
 
 export const install = (app: any) => {
-  app.component('MyButton', Button);
+  app.component('Button', Button);
 };
